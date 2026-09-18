@@ -1,0 +1,12 @@
+{
+  "recordMetadata": {
+    "title": "Patient Voice Chat History Record",
+    "description": "Consolidated repository recording all voice-to-voice consultations and dialogues between patient and AI medical assistant.",
+    "version": "1.0.0",
+    "created": "2026-09-18T15:33:00.000Z",
+    "lastUpdated": "2026-09-18T15:33:00.000Z",
+    "totalConsultations": 0,
+    "totalSpokenTurns": 0
+  },
+  "consultations": []
+}

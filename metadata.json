@@ -1,0 +1,6 @@
+{
+  "name": "Medical Voice Assistant",
+  "description": "A friendly medical voice assistant conducting natural, live voice-to-voice patient health assessments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
